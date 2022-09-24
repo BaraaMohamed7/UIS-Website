@@ -56,7 +56,7 @@ header .nav li a.active {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  background-image: url(/imgs/main-bg.png);
+  background-image: url(imgs/main-bg.png);
   height: calc(100vh - 80px);
   align-content: space-around;
   justify-content: center;
